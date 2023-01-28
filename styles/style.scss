@@ -1,5 +1,5 @@
-@import 'abstracts/variables';
-@import 'abstracts/mixins';
+@import './scss/abstracts/variables';
+@import './scss/abstracts/mixins';
 
 @import './scss/base/setup';
 @import './scss/base/typography';
@@ -14,4 +14,4 @@
 
 @import './scss/components/buttons';
 
-@import 'themes/theme';
+@import './scss/themes/theme';

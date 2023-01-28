@@ -1,0 +1,17 @@
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import './scss/base/setup';
+@import './scss/base/typography';
+
+@import './scss/layout/navigation';
+@import './scss/layout/header';
+@import './scss/layout/footer';
+@import './scss/layout/about';
+@import './scss/layout/portfolio';
+@import './scss/layout/skills';
+@import './scss/layout/contact';
+
+@import './scss/components/buttons';
+
+@import 'themes/theme';

@@ -238,3 +238,8 @@ html {
 html {
   font-size: 125%;
 }
+
+.btn {
+  width: 250px;
+  height: 66px;
+}

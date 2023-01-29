@@ -1,0 +1,7 @@
+@use "../abstracts/variables" as *;
+
+.btn {
+    width: 250px;
+    height: 66px;
+    background: $crimson;
+}

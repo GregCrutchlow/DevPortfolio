@@ -1,17 +1,17 @@
-@import './scss/abstracts/variables';
-@import './scss/abstracts/mixins';
+@use './scss/abstracts/variables';
+@use './scss/abstracts/mixins';
 
-@import './scss/base/setup';
-@import './scss/base/typography';
+@use './scss/base/setup';
+@use './scss/base/typography';
 
-@import './scss/layout/navigation';
-@import './scss/layout/header';
-@import './scss/layout/footer';
-@import './scss/layout/about';
-@import './scss/layout/portfolio';
-@import './scss/layout/skills';
-@import './scss/layout/contact';
+@use './scss/layout/navigation';
+@use './scss/layout/header';
+@use './scss/layout/footer';
+@use './scss/layout/about';
+@use './scss/layout/portfolio';
+@use './scss/layout/skills';
+@use './scss/layout/contact';
 
-@import './scss/components/buttons';
+@use './scss/components/buttons';
 
-@import './scss/themes/theme';
+@use './scss/themes/theme';
